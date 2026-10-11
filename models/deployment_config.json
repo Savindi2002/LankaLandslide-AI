@@ -1,0 +1,13 @@
+{
+    "project": "LankaLandslide AI",
+    "model_name": "XGBoost",
+    "model_type": "XGBClassifier",
+    "model_file": "lankalandslide_final_model.pkl",
+    "feature_file": "deployment_feature_columns.json",
+    "threshold": 0.49,
+    "prediction_unit": "district-day",
+    "target": "landslide_recorded",
+    "training_period": "1998-01-01 to 2019-12-31",
+    "test_period": "2018-01-01 to 2019-12-31",
+    "note": "This model estimates district-level landslide risk from weather and terrain features. It is a decision-support model and is not an official warning system."
+}

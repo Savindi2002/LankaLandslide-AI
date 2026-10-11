@@ -1,0 +1,37 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment variables
+.env
+.env.*
+
+# Large raw landslide dataset - keep locally, not in Git
+data/raw/landslides/DI_export_lka.xml
+
+# Large raw terrain data - keep locally, not in Git
+data/raw/terrain/dem/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large raw datasets - keep locally
+data/raw/landslides/DI_export_lka.xml
+data/raw/landslides/DI_export_lka.zip
+data/raw/terrain/dem/
+
+# Large training artifacts - keep locally
+data/features/landslide_weather_terrain_features.csv
+models/random_forest_balanced.pkl
+models/random_forest_landslide_model.pkl

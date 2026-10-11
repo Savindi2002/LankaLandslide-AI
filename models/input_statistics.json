@@ -1,0 +1,164 @@
+{
+    "rainfall_1day": {
+        "minimum": 0.0,
+        "maximum": 259.5,
+        "mean": 5.107061732250677,
+        "median": 1.6
+    },
+    "rainfall_3day": {
+        "minimum": 0.0,
+        "maximum": 544.1,
+        "mean": 15.321272121590667,
+        "median": 6.8999999999999595
+    },
+    "rainfall_7day": {
+        "minimum": 0.0,
+        "maximum": 625.4,
+        "mean": 35.75044867790964,
+        "median": 20.500000000000007
+    },
+    "rainfall_14day": {
+        "minimum": 0.0,
+        "maximum": 886.0,
+        "mean": 71.45433374973976,
+        "median": 47.900000000000006
+    },
+    "rainfall_30day": {
+        "minimum": 0.0,
+        "maximum": 1498.9,
+        "mean": 152.92716271080576,
+        "median": 118.2
+    },
+    "rainfall_3day_avg": {
+        "minimum": 0.0,
+        "maximum": 181.36666666666667,
+        "mean": 5.107090707196889,
+        "median": 2.2999999999999865
+    },
+    "rainfall_7day_avg": {
+        "minimum": 0.0,
+        "maximum": 89.34285714285714,
+        "mean": 5.107206953987091,
+        "median": 2.9285714285714297
+    },
+    "rainfall_14day_avg": {
+        "minimum": 0.0,
+        "maximum": 63.285714285714285,
+        "mean": 5.103880982124267,
+        "median": 3.421428571428572
+    },
+    "rainfall_30day_avg": {
+        "minimum": 0.0,
+        "maximum": 49.96333333333333,
+        "mean": 5.097572090360192,
+        "median": 3.94
+    },
+    "rain_hours": {
+        "minimum": 0.0,
+        "maximum": 24.0,
+        "mean": 6.860930668332292,
+        "median": 5.0
+    },
+    "temp_max": {
+        "minimum": 12.7,
+        "maximum": 40.9,
+        "mean": 30.062829481574017,
+        "median": 30.1
+    },
+    "temp_min": {
+        "minimum": 6.2,
+        "maximum": 30.2,
+        "mean": 23.808470747449512,
+        "median": 24.3
+    },
+    "temp_mean": {
+        "minimum": 10.9,
+        "maximum": 33.4,
+        "mean": 26.51856860295649,
+        "median": 26.8
+    },
+    "temperature_range": {
+        "minimum": 0.3999999999999986,
+        "maximum": 16.5,
+        "mean": 6.254358734124505,
+        "median": 6.100000000000001
+    },
+    "wind_max": {
+        "minimum": 2.1,
+        "maximum": 56.5,
+        "mean": 16.123008015823444,
+        "median": 15.2
+    },
+    "wind_gust_max": {
+        "minimum": 11.9,
+        "maximum": 97.6,
+        "mean": 36.55178013741411,
+        "median": 34.6
+    },
+    "month_sin": {
+        "minimum": -1.0,
+        "maximum": 1.0,
+        "mean": -0.006730806810007312,
+        "median": -2.4492935982947064e-16
+    },
+    "month_cos": {
+        "minimum": -1.0,
+        "maximum": 1.0,
+        "mean": -0.005313344284421134,
+        "median": -1.8369701987210292e-16
+    },
+    "heavy_rain_10mm": {
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "mean": 0.1588278159483656,
+        "median": 0.0
+    },
+    "heavy_rain_25mm": {
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "mean": 0.034988548823651884,
+        "median": 0.0
+    },
+    "heavy_rain_50mm": {
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "mean": 0.006849885488236519,
+        "median": 0.0
+    },
+    "heavy_rain_100mm": {
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "mean": 0.0010670414324380594,
+        "median": 0.0
+    },
+    "elevation_mean_m": {
+        "minimum": 1.9035069729920124,
+        "maximum": 1498.647701361019,
+        "mean": 203.84411964038205,
+        "median": 36.63840624358634
+    },
+    "elevation_max_m": {
+        "minimum": 24.972681045532227,
+        "maximum": 2523.1220703125,
+        "mean": 719.3285601139069,
+        "median": 288.58897399902344
+    },
+    "elevation_min_m": {
+        "minimum": -11.26418685913086,
+        "maximum": 445.7431640625,
+        "mean": 44.924794763326645,
+        "median": -1.874568223953247
+    },
+    "slope_mean_deg": {
+        "minimum": 0.3779956882423941,
+        "maximum": 19.92084019315274,
+        "mean": 6.496277621602765,
+        "median": 3.597995237636222
+    },
+    "slope_max_deg": {
+        "minimum": 16.340579430651808,
+        "maximum": 72.37765718553624,
+        "mean": 48.98847818802967,
+        "median": 50.00605993755556
+    }
+}
